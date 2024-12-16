@@ -11,5 +11,30 @@
  </html>
 
 <style>
-  
+  body {
+  background-color: grey;
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+  text-decoration: underline;
+  letter-spacing: 3px;
+  text-shadow: 3px 1px black;
+}
+
+
+h3:hover {
+  text-shadow: 2px 1px black;
+}
+
+img{ 
+  width: 180px;
+  border-radius: 30%;
+}
+
+img:hover{
+  width: 180px;
+  border: dotted 18px black;
 </style>
